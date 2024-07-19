@@ -1,1 +1,1 @@
-# Restaurent-Landing-Page (Html,CSS,React JS)
+# Restaurent-Landing-Page (React JS)
